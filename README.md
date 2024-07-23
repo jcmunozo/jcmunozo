@@ -1,7 +1,10 @@
 ### Hi there, Welcome to my github profile 👋
 I'm a software developer, committed to continuous growth in my field  ✨ ✨   
 
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordanmuñoz/?target=_blank)
+<a href="https://www.linkedin.com/in/jordanmuñoz/" target="_blank">
+  <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
+</a>
+
 <!--
 **jcmunozo/jcmunozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
