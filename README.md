@@ -1,4 +1,8 @@
-### Hi there, Welcome to my github profile 👋
+<h2>Hi there, I'm Jordan Welcome to my github profile 👋</h2> 
+
+<p><em>Full-Stack Developer | Data Analysis</em></p>
+
+
 I'm a software developer, committed to continuous growth in my field  ✨ ✨ 
 
 Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background in programming and tech.
