@@ -9,9 +9,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanmuñoz/)
 </div>
 <br>
+<div align="center">
 I'm a software developer, committed to continuous growth in my field  ✨ ✨ 
 
 Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background in programming and tech.
+</div>
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjcmunozo.pro%2F)](https://jcmunozo.pro/)
 <br>
