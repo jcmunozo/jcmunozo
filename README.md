@@ -19,18 +19,26 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 <br>
 # Technologies
 
-### 💫  Technologies I Love
-[![My Skills](https://skillicons.dev/icons?i=py,neovim,git,linux,postgres,docker&perline=3)](https://skillicons.dev)
-
-
-### 💻 Previously Worked With
-
-[![My Skills](https://skillicons.dev/icons?i=cs,angular,react,javascript,azure,figma&perline=3)](https://skillicons.dev)
-
-
-### 🌱 Learning
-
-[![My Skills](https://skillicons.dev/icons?i=elixir,gcp,pytorch&perline=3)](https://skillicons.dev)
+<h3 align='center'>💫 Technologies I Love</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,neovim,git,linux,postgres,docker" />
+  </a>
+</p>
+<br>
+<h3 align='center'>💻 Previously Worked With</h3> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,angular,react,javascript,azure,figma,git" />
+  </a>
+</p>
+<br>
+<h3 align='center'>🌱 Learning</h3> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=elixir,gcp,pytorch" />
+  </a>
+</p>
 
 <!--
 **jcmunozo/jcmunozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
