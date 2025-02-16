@@ -36,7 +36,7 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 <h3 align='center'>🌱 Learning</h3> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,gcp,pytorch" />
+    <img src="https://skillicons.dev/icons?i=nodejs,gcp,pytorch" />
   </a>
 </p>
 
