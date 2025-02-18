@@ -19,38 +19,12 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 <br>
 # Technologies
 
-<h3 align='center'>💫 Technologies I Love</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,neovim,git,linux,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,angular,react,nodejs,git,docker,html,css,django,cs,neovim,linux,postgres,java,lua,elixir,azure,figma,gcp,pytorch&perline=13" />
   </a>
 </p>
-<br>
-<h3 align='center'>💻 Previously Worked With</h3> 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,angular,react,javascript,azure,figma,git" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcmunozo&show_icons=true&locale=en&layout=compact&theme=radical" alt="jcmunozo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcmunozo&theme=radical" alt="jcmunozo" width="420"/>
 </p>
-<br>
-<h3 align='center'>🌱 Learning</h3> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,gcp,pytorch" />
-  </a>
-</p>
-
-<!--
-**jcmunozo/jcmunozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
