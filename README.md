@@ -21,10 +21,10 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,javascript,angular,react,nodejs,git,docker,html,css,django,cs,neovim,linux,postgres,java,lua,elixir,azure,figma,gcp,pytorch&perline=13" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,angular,react,vue,nodejs,git,docker,html,css,django,cs,dotnet,neovim,linux,postgres,mongo,graphql,java,lua,vim,elixir,azure,figma,gcp,pytorch&perline=13" />
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcmunozo&show_icons=true&locale=en&layout=compact&theme=radical" alt="jcmunozo"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcmunozo&theme=radical" alt="jcmunozo" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcmunozo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jcmunozo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcmunozo&theme=tokyonight" alt="jcmunozo" width="420"/>
 </p>
