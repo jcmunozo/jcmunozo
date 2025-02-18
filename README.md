@@ -19,10 +19,6 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 <br>
 # Technologies
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-0b151b?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
-
 <h3 align='center'>💫 Technologies I Love</h3>
 <p align="center">
   <a href="https://skillicons.dev">
