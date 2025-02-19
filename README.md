@@ -1,6 +1,5 @@
-<h2 align='center'>Welcome to my github profile 😜</h2> 
+<h2 align='center'>Welcome  👋, I'm Jordan 😊 </h2> 
 
-<h3 align='center'> I'm Jordan </h3>
 <p align='center'><em>Full-Stack Developer |  Machine Learning Enthusiast</em></p>
 
 <div align="center">
@@ -21,7 +20,7 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,javascript,angular,react,vue,nodejs,git,docker,html,css,django,cs,dotnet,neovim,linux,postgres,mongo,graphql,java,lua,vim,elixir,azure,figma,gcp,pytorch&perline=13" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,react,nodejs,git,docker,html,css,django,linux,postgres,figma,gcp&perline=13" />
   </a>
 </p>
 <p align="center">
