@@ -1,6 +1,6 @@
 <h2 align='center'>Welcome  👋, I'm Jordan 😊 </h2> 
 
-<p align='center'><em>Full-Stack Developer |  Machine Learning Enthusiast</em></p>
+<p align='center'><em>Full-Stack Developer |  Data Science Enthusiast</em></p>
 
 <div align="center">
 
