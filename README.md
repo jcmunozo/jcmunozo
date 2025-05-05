@@ -20,7 +20,7 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,javascript,react,nodejs,git,docker,django,linux,postgres,figma,gcp&perline=13" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,react,nodejs,git,docker,linux,postgres,figma,gcp&per" />
   </a>
 </p>
 <p align="center">
