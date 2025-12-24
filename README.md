@@ -16,7 +16,7 @@ Check out my website [jcmunozo](https://jcmunozo.pro/) to explore my background 
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjcmunozo.pro%2F)](https://jcmunozo.pro/)
 <br>
-# Technologies
+# Technologies :)
 
 <p align="center">
   <a href="https://skillicons.dev">
